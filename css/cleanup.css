@@ -1,24 +1,8 @@
 /* write your override styles here */
-
-
-#wall > div:first-child { /*middle boi*/
+#wall #tag-2 { /
   display:none;
 }
 
-#wall #tag-3.slick.wicked { /*big letters*/
-  display:none;
-}
 
-#wall .parent #tag-4 { /*peace dude*/
-  display:none;
-}
-
-#wall .parent > div { /*TAG 6/7 kid face/side kid*/
-  display:none;
-}
-
-#wall div:last-child > div #tag-7.slick {
-  display:none;
-}
 
 /* tag 2= 2 top right ones, tag 5=green letters */

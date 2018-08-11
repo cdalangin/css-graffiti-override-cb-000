@@ -3,6 +3,9 @@
   display:none;
 }
 
+#wall > div { /*middle boi*/
+  display:none;
+}
 
 #wall #tag-3.slick.wicked { /*big letters*/
   display:none;

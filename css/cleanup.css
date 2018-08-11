@@ -15,9 +15,7 @@
   display:none;
 }
 
-#wall .parent > div { /*TAG 6/7 kid face/side kid*/
-  display:none;
-}
+
 
 body div #wall div.parent div:first-child div #tag-7 {
   display:none;

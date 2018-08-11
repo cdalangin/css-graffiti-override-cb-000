@@ -1,5 +1,5 @@
 /* write your override styles here */
-#wall > div:first-child { /*middle boi*/
+#wall > div { /*middle boi*/
   display:none;
 }
 div#wall #tag-2 {

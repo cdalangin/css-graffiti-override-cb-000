@@ -18,9 +18,4 @@ div#wall #tag-2 {
   display:none;
 }
 
-body div#wall div:last-child > div #tag-7.slick {
-  display:none;
-}
-
-
 /* tag 2= 2 top right ones, tag 5=green letters */

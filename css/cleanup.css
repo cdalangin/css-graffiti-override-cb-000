@@ -2,6 +2,17 @@
 #wall #tag-2 { /* top right bois */
   display:none;
 }
+#wall > div { /*middle boi*/
+  display:none;
+}
+
+#wall #tag-3.slick.wicked { /*big letters*/
+  display:none;
+}
+
+#wall .parent #tag-4 { /*peace dude*/
+  display:none;
+}
 
 
 
